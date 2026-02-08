@@ -1,0 +1,25 @@
+baseURL = "https://areynaldo.com/"
+languageCode = "en"
+title = "areynaldo"
+copyright = "BY-NC-SA 4.0"
+
+[params]
+  author = "areynaldo"
+  description = "You have one job, solving problems."
+  twitter = "@areynaldo"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.highlight]
+  codeFences = false
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[sitemap]
+  changeFreq = "weekly"
+  priority = 0.5
+
+[taxonomies]
+  tag = "tags"
