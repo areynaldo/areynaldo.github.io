@@ -26,6 +26,9 @@ td {
   padding: 0 0.5em;
 }
 
-.invert {
-  filter: invert(1);
+.hero-image {
+  background: #222;
+  padding: 1rem;
+  display: block;
+  max-width: 100%;
 }

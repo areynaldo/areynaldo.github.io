@@ -3,7 +3,7 @@ title: "Home"
 description: "You have one job, solving problems. Notes and findings on various topics."
 ---
 
-<img src="/images/solving_problems.png" alt="Solving Problems" class="invert">
+<img src="/images/solving_problems.png" alt="Solving Problems" class="hero-image">
 
 *Mike Acton*
 
