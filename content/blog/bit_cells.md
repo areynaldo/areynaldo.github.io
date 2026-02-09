@@ -176,7 +176,3 @@ sizeSlider.onchange = () => { setSize(Number(sizeSlider.value)); renderGrids(); 
 addGrid.onclick = () => createGrid(Number(sizeSlider.value));
 renderOutputGrid();
 </script>
-
-## References
-
-1. Author, Title, Year.
